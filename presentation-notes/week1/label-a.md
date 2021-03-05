@@ -19,3 +19,6 @@ Fastis is a scheduling program for doctors.
 * A lot of edge cases
 * The flow was so big, that the process didn't start at the core functionality, which they normally do
 * Project lasted 14 sprints (2 weeks per sprint)
+
+## Code
+* State management with Redux / Context
