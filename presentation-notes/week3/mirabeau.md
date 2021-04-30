@@ -1,4 +1,4 @@
-![mirabeau logo](https://github.com/StanBankras/weekly-nerd-2021/blob/master/img/buildinamsterdam/logo.png?raw=true)
+![mirabeau logo](https://github.com/StanBankras/weekly-nerd-2021/blob/master/img/mirabeau/logo.jpg?raw=true)
 
 # Mirabeau presentation notes
 Presentation by Dave Bitter & Alexander Munz
@@ -6,7 +6,7 @@ Presentation by Dave Bitter & Alexander Munz
 * Want to differentiate CMD frontenders from normal frontenders
   * 'Frontend experience designers'
 
-![guilds](https://github.com/StanBankras/weekly-nerd-2021/blob/master/img/mireabeau/guilds.png?raw=true)
+![guilds](https://github.com/StanBankras/weekly-nerd-2021/blob/master/img/mirabeau/guilds.png?raw=true)
 
 * Stages in design at Mirabeau:
   * Concepting
